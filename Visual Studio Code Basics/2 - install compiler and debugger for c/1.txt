@@ -1,0 +1,47 @@
+Download Msys from here :
+https://github.com/msys2/msys2-installer/releases/download/2023-03-18/msys2-x86_64-20230318.exe
+
+- setub the program (Msys) (next next etc ..)
+
+1 - write on the terminal of Msys :
+pacman -Syu      ( then enter )
+after that , will ask you if you want proceed with installation , enter y     ( then enter )
+after that , will ask you if it can close the terminal , enter y              ( then enter )
+
+2- open the from search Msys2 again and write :
+pacman -Su       ( then enter )
+after that , will ask you if you want proceed with installation , enter y     ( then enter )
+then when it done , close the program
+
+if your pc 64bit ( you can know it from my computer and properties )
+
+3- open from search Msys2 MINGW64 and write :
+pacman -Ss gcc
+and go up and search about mingw-w64-x86_64-gcc then write :
+pacman -S mingw-w64-x86_64-gcc
+after that , will ask you if you want proceed with installation , enter y     ( then enter )
+
+now write :
+pacman -Ss gdb
+and go up and search about mingw-w64-x86_64-gdb then write :
+pacman -S mingw-w64-x86_64-gdb
+after that , will ask you if you want proceed with installation , enter y     ( then enter )
+
+now we finish every thing < we need to add the path of gcc and gdb to the variables of system :
+
+- go to my computer folder
+- then go to windows c folder
+- go to msys64 folder
+- go to mingw64 folder
+- go to bin folder
+- and copy its path from top of the page
+- go to start menu from your pc and write edit system environment variables
+- click on environment variables
+- double click on path in the second bar
+- click on new and ctrl v for the path you copied from bin folder
+- then click ok and close all taps
+
+
+
+============================================ now you can open vs code and start your coding ============================================
+

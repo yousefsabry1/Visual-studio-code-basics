@@ -1,0 +1,29 @@
+====================================== Some extensions will improve your coding in vs code ======================================
+
+
+you can open extensions page from vs code with this snips ( ctrl shift x )
+
+1 - c/c++ :-
+you should add it to use c or c++
+"لازم تضيفها عشان تقدر تشتغل بلغة السي"                                                        
+                                                                    ( compulsory )
+============================================================================================
+
+2- bookmarks :-
+you can bookmark anything in your code to back for it 
+"تقدر تستخدمها عشان تحط علامة علي اي جزء من الكود عشان ترجعله بعدين"
+                                                                     ( optional )
+============================================================================================
+
+3 - code spell checker :-
+this extension can notice you if there is a mistake in your spelling in code
+"بتقولك لو عندك غلطة في الكتابة في كتابة اي كلمه في الكود وليس الكود نفسه"
+                                                                                                                                          ( optional )
+============================================================================================
+
+( compulsory ) : إجباري للي بيشتغل بلغة السي أو السي بلس بلس
+( optional ) : إختياري
+
+there are many extensions if vs code , you can search by yourself .. enjoy .
+
+

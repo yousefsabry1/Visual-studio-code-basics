@@ -1,0 +1,132 @@
+================================= Here i will write some snips to facilitate your use for vs code =================================
+                             =========================================================================
+
+General snips :-
+_____________
+
+1- ctrl h :
+choose a word and replace it
+"تختار كلمة وتبدلها بأي كلمة تانية"
+
+2- alt + any number :
+move between the tabs
+"عشان تتنقل بين الصفحات الي في البار الي فوق"
+																							
+3- ctrl b :
+close and oben the left bar
+"لقفل وفتح البار الي في اليسار"
+
+4- ctrl shift n :
+open new tap to the visual
+"فتح نافذة جديدة للبرنامج"
+
+5- ctrl , :
+open settings of visual
+"فتح اعدادات البرنامج"
+
+6- ctrl k s :
+open keyboard shortcuts
+"فتح اختصارات الكيبورد"
+
+7- ctrl shift o :
+show all variables
+"بتوريك كل المتغيرات الي عندك"
+
+8- ctrl f :
+open search box to find any worf you want
+"فتح صندوق البحث عشان تبحث عن اي كلمه عايزها"
+
+===================================================================================================
+
+coding snips :-
+_____________
+
+1- alt + arrows :
+replace line place another
+"بيبدل سطر مكان سطر تحته او فوقه"
+
+2- shift alt + arrows :
+copy the line and paste it
+"بينسخ السطر ويلصقه تحته او فوقه"
+
+3- tap :
+front space
+"بيعمل مسافه لقدام"
+
+4- shift tap :
+back space
+"بيعمل مسافة للخلف"
+
+5- ctrl shift [ :
+folded the code
+"بيطوي الجزء الي تحدده من الكود"
+
+6- ctrl shift ] :
+unfolded code 
+"بيلغي انطواء الكود ويرجع طبيعي"
+
+7- ctrl k 0 :
+folded the code for many sections
+"بيطوي الكود لأكثر من جزء"
+
+8- ctrl k j :
+unfolded the sections
+"بيلغي انطواء الاكواد الي متحدده"
+
+9- ctrl alt + arrows Or alt + تحدد بالماوث :
+write the same word in many lines
+"كتابة نفس الكلمة في أكثر من سطر"
+
+10- ctrl shift k :
+delete the line
+"بيمسح السطر الي واقف عليه"
+
+11- ctrl enter :
+make a new line to down
+"بيعمل سطر جديد لتحت"
+
+12- ctrl shift enter :
+make a new line to up
+"بيعمل سطر جديد لفوق"
+
+13- ctrl shift \ :
+go to the end of bracket
+"بيوديك لنهاية القوس"
+
+14- ctrl [ Or ctrl ] :
+make regular space
+"بيعمل مسافات منتظمة بتخلي شكل الكود أحلى"
+
+15- ctrl / :
+make a comment for one line in the code
+"تعمل كومنت لسطر واحد"
+
+16- shift alt a :
+make a comment for more than lines
+"لعمل كومنت لاكثر من سطر"
+
+17- shift alt f :
+format the code
+"الكود بيتعدل بطريقة مرتبة أكثر"
+
+18- ctrl g :
+move between lines
+"تتنقل بين السطور حسب ارقامها"
+
+19- ctrl shift m :
+show all problems that you have
+"بتظهر كل المشاكل الي عندك"
+
+20- f8 And shift f8 :
+move between your problems 
+"بتنقل بين المشاكل الي عندك"
+
+21- ctrl k d :
+make a determination
+"بيحدد بعدين لما تضغط علي كنترول دي تاني بينقلك لنفس الكلمة التانية لو في وتحددها وتغيرها"
+
+22- ctrl shift b :
+build the code
+"بيعمل بناء للكود عشان تقدر تستخدمه برا الفيجوال عادي"
+
+===================================================================================================
